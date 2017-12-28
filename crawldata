@@ -1,0 +1,34 @@
+[{
+    "productName": "spring",
+    "prices": {
+        "amazon": "200",
+        "flipcart": "220",
+        "ebay": "230"
+    }
+},
+ {
+    "productName": "java",
+    "prices": {
+        "amazon": "100",
+        "flipcart": "120",
+        "ebay": "130"
+    }
+},
+ {
+    "productName": "Apple",
+    "prices": {
+        "amazon": "80",
+        "flipcart": "85",
+        "ebay": "90"
+    }
+},
+ {
+    "productName": "Banana",
+    "prices": {
+        "amazon": "30",
+        "flipcart": "40",
+        "ebay": "35"
+    }
+}
+ 
+ ]
